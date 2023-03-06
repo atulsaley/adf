@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryatul1",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7e792865-375a-4707-9b97-4265ce49032a",
+		"tenantId": "321e224e-ba4f-4490-893f-d17fe058eb3c"
+	}
+}
